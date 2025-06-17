@@ -1,5 +1,6 @@
 # Repositorio-teste
 Repositorio para testes e aprendizado.
 
-Matheus Spilmam
-Nunca desista.
+Feito por: Matheus Spilmam.
+Estudante do Senai como técnico em Desenvolvimento de Sistemas.
+Professor: Michel
